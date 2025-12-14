@@ -1,0 +1,15 @@
+# 设置字体家族
+font_family 0xProtoNerdFont
+
+# 明确指定各个变体
+bold_font LXGW WenKai Bold
+italic_font LXGW WenKai Light
+
+symbol_map U+4E00-U+9FFF U+3000-U+303F U+3040-U+309F U+30A0-U+30FF U+FF00-U+FFEF U+3400-U+4DBF U+20000-U+2A6DF U+2A700-U+2B73F U+2B740-U+2B81F U+2B820-U+2CEAF U+2CEB0-U+2EBEF LXGW WenKai
+
+# 字体大小
+font_size 16.0
+
+# 可选：改善字体渲染
+adjust_line_height  0
+adjust_column_width 0
